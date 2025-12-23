@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP To Dynamic HTML (Portable Export)
  * Description: Export WordPress pages/posts to portable static HTML with split ZIPs.
- * Version: 3.1
+ * Version: 1.0.0
  * Author: Kang JL
  */
 
